@@ -238,7 +238,7 @@ export default function App() {
                       <TiltCard delay={0.4}>
                         <div className="w-full h-full rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-white/5 backdrop-blur-sm p-2">
                           <img 
-                            src="Juju Profile Pic.JPG" 
+                            src="pic.jpg" 
                             alt="Sarbajit Rout" 
                             className="w-full h-full object-cover rounded-2xl"
                             referrerPolicy="no-referrer"
@@ -304,7 +304,7 @@ export default function App() {
                     <TiltCard delay={0.4}>
                       <div className="w-full h-full rounded-3xl overflow-hidden border border-white/10 shadow-2xl bg-white/5 backdrop-blur-sm p-2">
                         <img 
-                          src="Juju Profile Pic.JPG" 
+                          src="pic.jpg" 
                           alt="Sarbajit Rout" 
                           className="w-full h-full object-cover rounded-2xl"
                           referrerPolicy="no-referrer"
